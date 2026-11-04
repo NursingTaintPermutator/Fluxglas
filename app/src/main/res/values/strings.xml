@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FluxGlas</string>
+    <string name="description">Glaskugel mit schwebenden Glasmurmeln in einer Flüssigkeit</string>
+    <string name="torus_name">FluxTorus</string>
+    <string name="torus_description">Glastorus mit schwebenden Glasmurmeln</string>
+    <string name="torus_video_name">FluxTorus Video</string>
+    <string name="torus_video_description">Glastorus mit schwebenden Glasmurmeln vor einem Video</string>
+</resources>
