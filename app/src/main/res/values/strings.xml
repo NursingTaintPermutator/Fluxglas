@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FluxGlas</string>
+    <string name="description">Glaskugel mit schwebenden Glasmurmeln in einer Flüssigkeit</string>
+</resources>
